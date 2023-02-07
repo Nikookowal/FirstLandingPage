@@ -20,8 +20,8 @@ background: repeating-linear-gradient(
 	90deg, 
 	white, 
 	white 10%,
-	#fff 10%,
-	#fff 20);
+	#eee 10%,
+	#eee 20%);
 color: black;
 font-family: 'Lato', sans-serif;
 }
