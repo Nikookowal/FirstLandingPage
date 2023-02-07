@@ -54,6 +54,13 @@ h1
   margin-right: 5px;
 }
 
+	@media (max-width: 600px) {
+  header {
+    flex-wrap: wrap;
+  }
+}
+	
+	
 .head01
 {
 	display: flex;
