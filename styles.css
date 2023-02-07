@@ -365,6 +365,13 @@ iframe
   margin-right: 2px;
 }
 
+.desc-flautas
+{
+align-items: center;
+margin: 1em;
+padding: 1em; 
+}
+
 .produto > input
 {
   font-weight: 400;
