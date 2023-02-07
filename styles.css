@@ -130,6 +130,7 @@ h1
 .btn:hover {
   background-color: #0887c3;
   transition: background-color 0.5s;
+}
 
 	
 	@media (max-width: 650px) {
