@@ -16,12 +16,7 @@
 body
 {
 margin: 0;
-background: repeating-linear-gradient(
-	90deg, 
-	white, 
-	white 10%,
-	#eee 10%,
-	#eee 20%);
+background-color: #eee 20%;
 color: black;
 font-family: 'Lato', sans-serif;
 }
@@ -132,6 +127,10 @@ h1
   justify-content: center;
 }
 
+.btn:hover {
+  background-color: #0887c3;
+  transition: background-color 0.5s;
+
 	
 	@media (max-width: 650px) {
   nav {
@@ -209,7 +208,7 @@ main
 }
 	
 #hero input[type='submit']:hover {
-  background-color: blue;
+  background-color: #0887c3;
   transition: background-color 0.5s;
 }
 
