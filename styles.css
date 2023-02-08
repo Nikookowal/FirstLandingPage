@@ -104,6 +104,7 @@ text-align: left;
 width: 60vw; 	
 align-items: center; 
 display: flex;
+	justify-content: center; 
 }
 
 .head02
