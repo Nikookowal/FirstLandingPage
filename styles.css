@@ -121,6 +121,12 @@ text-align: left;
 width: 50vw; 	
 align-items: center; 
 display: flex;
+margin-left: 20px;
+position: relative; 
+width: 100%;
+margin-right: 20px;
+text-align: center;
+	
 }
 
 .head02
@@ -150,6 +156,8 @@ margin-right: 20px;
 		align-items: center;
 	}
 }
+
+
 
 
 .head01 > img
