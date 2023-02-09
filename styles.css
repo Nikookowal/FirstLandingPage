@@ -1,7 +1,7 @@
 
 :root
 {
-	--blue-color: #33bbff ;
+--blue-color: #33bbff ;
 }
 
 *
@@ -87,7 +87,6 @@ font-size: 1em;
 header
 {
  min-height: 75px;
- 
  background-color: var(--blue-color);
  display: flex;
  justify-content: center;
@@ -103,6 +102,7 @@ text-align: left;
 	header{
 		flex-wrap: wrap;
 		position: relative;
+		align-items: center;
 	}
 }
 
